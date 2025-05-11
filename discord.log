@@ -1,0 +1,31 @@
+2025-05-11 01:48:29,681 - discord - INFO - Bot instance started with ID: 2644ebbb-bd95-46e3-8d80-4153a984a322
+2025-05-11 01:48:29,682 - discord - INFO - Found stale lock file (age: 80.3 seconds). Replacing it.
+2025-05-11 01:48:29,933 - discord - INFO - Bot instance started with ID: 4562
+2025-05-11 01:48:30,938 - discord.client - INFO - logging in using static token
+2025-05-11 01:48:31,648 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 28efbc1f1512c2670f251585dc710478).
+2025-05-11 01:48:33,654 - discord - INFO - Logged in as QuantumX (ID: 1370707409433264180)
+2025-05-11 01:48:33,654 - discord - INFO - Connected to 1 guilds
+2025-05-11 01:48:33,655 - discord - INFO - Verification channel found: verification (ID: 1370710306619129976)
+2025-05-11 01:48:33,655 - discord - INFO - Setting up permissions for all servers...
+2025-05-11 01:48:33,655 - discord - INFO - Found unverified role in Stand User Club: unverified (ID: 1370711895342059560)
+2025-05-11 01:48:34,008 - discord - INFO - Blocked heneral for unverified users
+2025-05-11 01:48:34,167 - discord - INFO - Blocked games for unverified users
+2025-05-11 01:48:34,393 - discord - INFO - Blocked music for unverified users
+2025-05-11 01:48:34,729 - discord - INFO - Blocked \\VOICE// for unverified users
+2025-05-11 01:48:34,903 - discord - INFO - Blocked Relapse for unverified users
+2025-05-11 01:48:35,078 - discord - INFO - Blocked io-read-welcomer for unverified users
+2025-05-11 01:48:35,551 - discord - INFO - Blocked suggestion-bot for unverified users
+2025-05-11 01:48:35,741 - discord - INFO - Allowed access to verification for unverified users
+2025-05-11 01:48:35,995 - discord - INFO - Blocked 0 for unverified users
+2025-05-11 01:48:36,164 - discord - INFO - Blocked announcement for unverified users
+2025-05-11 01:48:36,329 - discord - INFO - ✅ Permissions set up for Stand User Club
+2025-05-11 01:49:30,553 - discord - INFO - Processing command: !lock (Instance 4562)
+2025-05-11 01:49:48,261 - discord - INFO - Processing command: !unlocked (Instance 4562)
+2025-05-11 01:49:48,262 - discord.ext.commands.bot - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "unlocked" is not found
+2025-05-11 01:49:54,065 - discord - INFO - Processing command: !unlock (Instance 4562)
+2025-05-11 01:50:53,871 - discord - INFO - Processing command: !setup_rework (Instance 4562)
+2025-05-11 01:50:53,872 - discord.ext.commands.bot - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "setup_rework" is not found
+2025-05-11 01:51:28,162 - discord - INFO - Processing command: !lock (Instance 4562)
+2025-05-11 01:52:19,087 - discord - INFO - Processing command: !unlock (Instance 4562)
